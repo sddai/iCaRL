@@ -14,3 +14,6 @@ A major open problem on the road to artificial intelligence is the development o
        booktitle = CVPR,
        year = 2017,
     }
+
+
+https://vlomonaco.github.io/core50/strategies.html
